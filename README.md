@@ -36,3 +36,13 @@ To build and evaluate a classification model that predicts stroke occurrence usi
   - Confusion matrix and ROC curves
 
 ---
+
+## Skills Demonstrated
+
+Applied ML algorithms for classification
+
+Handled imbalanced data and categorical encoding
+
+Compared model performance with appropriate metrics
+
+Built a reproducible and interpretable ML pipeline
